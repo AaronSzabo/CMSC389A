@@ -16,9 +16,9 @@ sklearn<br>
 Data
 -
 The data file used can be downloaded from: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv<br>
-Courtesy of: 	P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.<br>
-				Modeling wine preferences by data mining from physicochemical properties.<br>
-				In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.<br>
+Courtesy of:P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.<br>
+Modeling wine preferences by data mining from physicochemical properties.<br>
+In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.<br><br>
 The file needs to be put in the same location as the jupyter notebook
 
 Running the code
