@@ -29,3 +29,7 @@ Video
 -
 Linked is a video presentation of the project:
 https://youtu.be/RtCpDJp5208
+
+Optimization
+-
+The Data spreadsheet contains a record of the different architectures that were tested prior to the current model being selected. Of note, all of the models typically had an accuracy of 60%-75% on the 1/4 range and 45%-55% on the 1/6 accuracy. The data sheet consists of the number of ndoes and their activation type for each layer. The right columns record the accuracy for the specified ranges. The <code>(500)</code> signifies accuracies with models trained over 500 epochs. The rest were trained on 100 epochs. 
