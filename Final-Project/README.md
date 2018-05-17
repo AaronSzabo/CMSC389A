@@ -1,6 +1,6 @@
-Improving the quality of white wine with neural networks
-By: 			Aaron Szabo
-Last Updated: 	5/17/2018
+Improving the quality of white wine with neural networks<br>
+By: 			Aaron Szabo<br>
+Last Updated: 	5/17/2018<br>
 
 Overview
 -
@@ -8,17 +8,17 @@ The purpose of this project is to create a model that accurately predicts the qu
 
 Requirements
 -
-Keras with tensorflow backend
-Numpy
-Panda
-sklearn
+Keras with tensorflow backend<br>
+Numpy<br>
+Panda<br>
+sklearn<br>
 
 Data
 -
-The data file used can be downloaded from: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
-Courtesy of: 	P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
-				Modeling wine preferences by data mining from physicochemical properties.
-				In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+The data file used can be downloaded from: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv<br>
+Courtesy of: 	P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.<br>
+				Modeling wine preferences by data mining from physicochemical properties.<br>
+				In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.<br>
 The file needs to be put in the same location as the jupyter notebook
 
 Running the code
